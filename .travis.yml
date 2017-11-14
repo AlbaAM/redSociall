@@ -17,5 +17,5 @@ deploy:
  notifications:
   slack:
     rooms:
-      - equipo1-redsocial:ihFpD97Y7kMobkwTcWfnG1Sp#general
+      - equipo1-redsocial:ihFpD97Y7kMobkwTcWfnG1Spcd#general
 
